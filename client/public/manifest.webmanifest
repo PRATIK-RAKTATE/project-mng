@@ -1,0 +1,10 @@
+{
+  "name": "Project-mng",
+  "short_name": "Project-mng",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#111827",
+  "description": "Simple high-performance personal life management PWA",
+  "icons": []
+}
